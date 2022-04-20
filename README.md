@@ -1,4 +1,4 @@
-# Hands-on RL with Ray’s RLlib
+# Hands-on RL with Ray’s RLlib + Weights & Biases
 
 ## Overview
 “Hands-on RL with Ray’s RLlib” is a beginners tutorial for working with reinforcement learning (RL) environments, models, and algorithms using Ray’s RLlib library. It offers high scalability, a large list of algos to choose from (offline, model-based, model-free, etc..), support for TensorFlow and PyTorch, and a unified API for a variety of applications. This tutorial includes a brief introduction to provide an overview of concepts (e.g. why RL) before proceeding to RLlib models, hyperparameter tuning, debugging, student exercises, Q/A, and more. All code will be provided as .py files in a GitHub repo. 
